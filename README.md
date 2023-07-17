@@ -1,5 +1,5 @@
 
-# Assignment Advance Tailwind CSS
+# Stock Brocker website using tailwind
 
 Advanced Tailwind CSS refers to the utilization of the framework's more intricate features and techniques to create highly customized and complex user interfaces. Some key aspects of advanced Tailwind CSS include:
 
